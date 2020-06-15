@@ -152,7 +152,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>4.0.2.GA</version>
+			<version>5.3.5.Final</version>
 		</dependency>
 		<!--
 			JAXB is needed when running on Java 5. In this environment these dependencies have to be added 
