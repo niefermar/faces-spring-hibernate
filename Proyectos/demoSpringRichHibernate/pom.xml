@@ -70,7 +70,7 @@
 		<springVersion>3.1.0.RELEASE</springVersion>
 		<richFacesVersion>4.1.0.Final</richFacesVersion>
         <org.richfaces.bom.version>4.1.0.Final</org.richfaces.bom.version>
-		<hibernateVersion>3.3.2.GA</hibernateVersion>
+		<hibernateVersion>5.4.24.Final</hibernateVersion>
 		<javaVersion>1.6</javaVersion>
 	</properties>
   
