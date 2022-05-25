@@ -67,7 +67,7 @@
 	</repositories>
 
 	<properties>
-		<springVersion>3.1.0.RELEASE</springVersion>
+		<springVersion>5.2.22.RELEASE</springVersion>
 		<richFacesVersion>4.1.0.Final</richFacesVersion>
         <org.richfaces.bom.version>4.1.0.Final</org.richfaces.bom.version>
 		<hibernateVersion>3.3.2.GA</hibernateVersion>
